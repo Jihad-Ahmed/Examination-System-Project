@@ -1,0 +1,317 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "ProjectContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "WinFormsApp1",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Course]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Crs_St]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Department]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Ex_Q]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Exam]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[P_St]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Professor]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Q_Choises]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Questions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[St_Answers]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Students]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Topic]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CORRECTION]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DCourse]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DCrs_St]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DDepartment]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DEx_Q]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DExam]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DP_St]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DProfessor]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DQ_Choises]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DQuestions]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DSt_Answers]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DStudents]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DTopic]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GenerateExam2]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetAnswers]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetCourse]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetCrs_St]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetCrsTopicsR4]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetDepartment]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetEx_Q]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetExam]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetExQuestionsR5]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetGradesR2]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetNumStR3]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetP_St]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetProfessor]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetQ_Choises]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetQuestions]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetSt_Answers]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetStAnswersR6]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetStudents]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetStudentsR1]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetTopic]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[InsCourse]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[InsCrs_St]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[InsDepartment]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[InsEx_Q]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[InsExam]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[InsP_St]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[InsProfessor]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[InsQ_Choises]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[InsQuestions]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[InsSt_Answers]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[InsStudents]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[InsTopic]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[test]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpCourse]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpCrs_St]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpDepartment]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpEx_Q]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpExam]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpP_St]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpProfessor]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpQ_Choises]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpQuestions]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpSt_Answers]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpStudents]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpTopic]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "desktop-lsbg6nj.Project.dbo",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

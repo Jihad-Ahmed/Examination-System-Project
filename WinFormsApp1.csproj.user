@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\project\win1\WinFormsApp1\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Courses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Questions2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="R1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="R2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="R3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="R4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="R5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="R6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
